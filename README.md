@@ -1,1 +1,2 @@
-#my first git project#
+my first git project
+this project is on my github!
